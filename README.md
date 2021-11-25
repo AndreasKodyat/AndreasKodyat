@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndreasKodyat
 - 👀 I’m interested in database programming, business information systems, game development, fullstack web application development.
-- 🌱 I’m currently learning fullstack web application development, Python, C#
+- 🌱 I’m currently learning fullstack web application development using Javascript/NodeJS, Python, C#, Ruby On Rails
 - 💞️ I’m looking to collaborate on database programming, web application development, information systems analysis and design.
 - 📫 How to reach me: andreas.kodyat@gmail.com
 
