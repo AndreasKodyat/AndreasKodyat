@@ -2,7 +2,7 @@
 - 👀 I’m interested in database programming, business information systems, game development, fullstack web application development.
 - 🌱 I’m currently learning fullstack web application development using HTML/CSS/Javascript and NodeJS, Python/Django, PHP, C#, Ruby On Rails
 - 👀 I work with the following database technology: Access, SQLite, MySQL/MariaDB, Postgresql, MongoDB
-- 👀 Other technology stack that I learn: React, VueJS, Bootstap, Tailwind
+- 👀 Other technology stack that I learn: React, VueJS, Bootstrap, Tailwind
 - 💞️ I’m looking to collaborate on database programming, web application development, information systems analysis and design.
 - 📫 How to reach me: andreas.kodyat@gmail.com
 
